@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.rezguirami2026.qaryatalkhair",
+        "sha256_cert_fingerprints": ["A5:60:8A:10:13:14:27:AA:82:59:44:51:65:5B:E0:F7:B9:09:68:4B:5B:49:BC:DE:71:20:00:33:F1:E7:21:78"]
+      }
+    }]
